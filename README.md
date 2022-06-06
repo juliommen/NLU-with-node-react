@@ -4,7 +4,10 @@
   - Frontend: HTML & Javascript + React
   - Backend: Javascript + NodeJs
   - API: natural Language Understanding (IBM Cloud)
+  - Other knowledges:
+    - Creact React App
+    - Bootstrap
 
 
-Run 'npm run-script build'. Please note this is customized in package.json to generate and copy the client code to the server.
+Run 'npm run-script build' inside 'sentimentAnalyzeClient'. Please note this is customized in package.json to generate and copy the client code to the server.
  
